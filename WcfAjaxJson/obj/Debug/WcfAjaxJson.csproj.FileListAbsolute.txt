@@ -1,0 +1,7 @@
+C:\Users\JohnHansLiebenberg\Documents\Visual Studio 2010\Projects\WcfAjaxJson\WcfAjaxJson\bin\ClientAccessPolicy.xml
+C:\Users\JohnHansLiebenberg\Documents\Visual Studio 2010\Projects\WcfAjaxJson\WcfAjaxJson\bin\crossdomain.xml
+C:\Users\JohnHansLiebenberg\Documents\Visual Studio 2010\Projects\WcfAjaxJson\WcfAjaxJson\bin\WcfAjaxJson.dll
+C:\Users\JohnHansLiebenberg\Documents\Visual Studio 2010\Projects\WcfAjaxJson\WcfAjaxJson\bin\WcfAjaxJson.pdb
+C:\Users\JohnHansLiebenberg\Documents\Visual Studio 2010\Projects\WcfAjaxJson\WcfAjaxJson\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JohnHansLiebenberg\Documents\Visual Studio 2010\Projects\WcfAjaxJson\WcfAjaxJson\obj\Debug\WcfAjaxJson.dll
+C:\Users\JohnHansLiebenberg\Documents\Visual Studio 2010\Projects\WcfAjaxJson\WcfAjaxJson\obj\Debug\WcfAjaxJson.pdb
