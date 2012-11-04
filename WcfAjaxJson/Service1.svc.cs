@@ -1,5 +1,6 @@
 ﻿using System.ServiceModel;
 using System.ServiceModel.Activation;
+using System.ServiceModel.Web;
 
 namespace WcfAjaxJson
 {
@@ -38,10 +39,17 @@ namespace WcfAjaxJson
 
     [ServiceBehavior(IncludeExceptionDetailInFaults = true)]
     [AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Allowed)]
+
     public class Service1 : IService1
     {
         public string[][] GetData()
         {
+                //WebOperationContext.Current.OutgoingResponse.Headers.Add(
+                //    "Access-Control-Allow-Origin", "*"); WebOperationContext.Current.OutgoingResponse.Headers.Add(
+                //        "Access-Control-Allow-Methods", "GET");
+                //WebOperationContext.Current.OutgoingResponse.Headers.Add(
+                //    "Access-Control-Allow-Headers", "Content-Type, Accept");
+
             return new[]
                        {
                            new[] {"0", "76", "VAN", "2012-09-14"},

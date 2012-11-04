@@ -49,7 +49,7 @@ namespace WcfAjaxJson
         public interface IService1
         {
             [OperationContract]
-            [WebInvoke(Method = "POST", BodyStyle = WebMessageBodyStyle.WrappedRequest, ResponseFormat = WebMessageFormat.Json)]
+            [WebInvoke(Method = "GET", BodyStyle = WebMessageBodyStyle.WrappedRequest, ResponseFormat = WebMessageFormat.Json)]
             string[][] GetData();
         }
 
