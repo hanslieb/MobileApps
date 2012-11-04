@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\EmployeeContractorService" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WcfAjaxJson.pdb" publishTime="11/04/2012 00:57:04" />
+    <file relUrl="Service1.svc" publishTime="09/19/2012 20:38:26" />
+    <file relUrl="bin/WcfAjaxJson.dll" publishTime="11/04/2012 00:57:04" />
+    <file relUrl="Web.config" publishTime="11/04/2012 00:57:09" />
+    <file relUrl="crossdomain.xml" publishTime="09/30/2012 16:16:41" />
+    <file relUrl="bin/ClientAccessPolicy.xml" publishTime="09/30/2012 16:16:41" />
+    <file relUrl="bin/crossdomain.xml" publishTime="09/30/2012 16:16:41" />
+    <file relUrl="ClientAccessPolicy.xml" publishTime="09/30/2012 16:16:41" />
+  </publishProfile>
+</publishData>
